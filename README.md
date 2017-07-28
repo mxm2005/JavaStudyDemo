@@ -1,2 +1,2 @@
 # JavaStudyDemo
-学习使用的DEMO
+Java 瀛︿範鐨凞EMO
