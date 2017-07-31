@@ -6,12 +6,17 @@ public class TestDemo {
 		// TODO Auto-generated method stub
 		System.out.println("begin...");
 		
-		TestCollection tc=new TestCollection();
-		tc.TestArray();
-		tc.TestList();
-		tc.TestMap();
-		tc.TestMap1();
-		tc.TestSet();
+//		TestCollection tc=new TestCollection();
+//		tc.TestArray();
+//		tc.TestList();
+//		tc.TestMap();
+//		tc.TestMap1();
+//		tc.TestSet();
+		
+		
+		TestIO.WriteToFile();
+		TestIO.ReadFile();
+		System.out.println("end...");
 	}
 
 }
